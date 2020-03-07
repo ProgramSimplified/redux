@@ -1,0 +1,39 @@
+Hash: 770e03c53a39f14ae53e
+Version: webpack 4.41.6
+Time: 5578ms
+Built at: 02/28/2020 9:01:32 PM
+        Asset     Size  Chunks             Chunk Names
+app.bundle.js  177 KiB       0  [emitted]  index
+Entrypoint index = app.bundle.js
+ [0] ./node_modules/react/index.js 189 bytes {0} [built]
+ [1] ./node_modules/prop-types/index.js 707 bytes {0} [built]
+ [2] ./node_modules/react-router-redux/lib/index.js 1.93 KiB {0} [built]
+ [3] ./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js 2.68 KiB {0} [built]
+ [4] ./node_modules/react-dom/index.js 1.32 KiB {0} [built]
+ [5] ./node_modules/react-is/index.js 195 bytes {0} [built]
+ [6] ./node_modules/tiny-warning/dist/tiny-warning.esm.js 361 bytes [built]
+ [7] ./node_modules/symbol-observable/es/index.js 401 bytes {0} [built]
+[11] ./node_modules/react-router-redux/lib/reducer.js 1.29 KiB {0} [built]
+[12] ./node_modules/react-router-redux/lib/actions.js 1.27 KiB {0} [built]
+[16] ./node_modules/react-dom/cjs/react-dom.production.min.js 171 KiB {0} [built]
+[17] ./node_modules/react/cjs/react.production.min.js 8.9 KiB {0} [built]
+[20] ./node_modules/react-router-redux/lib/sync.js 5.66 KiB {0} [built]
+[21] ./node_modules/react-router-redux/lib/middleware.js 1.02 KiB {0} [built]
+[31] ./src/app.js + 46 modules 151 KiB {0} [built]
+     | ./src/app.js 683 bytes [built]
+     | ./node_modules/react-redux/es/index.js 776 bytes [built]
+     | ./src/routes/history.js 102 bytes [built]
+     | ./src/redux/store.js 561 bytes [built]
+     | ./node_modules/react-router-dom/esm/react-router-dom.js 9.72 KiB [built]
+     | ./src/routes/index.js 264 bytes [built]
+     | ./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js 204 bytes [built]
+     | ./node_modules/@babel/runtime/helpers/esm/extends.js 397 bytes [built]
+     | ./node_modules/tiny-invariant/dist/tiny-invariant.esm.js 305 bytes [built]
+     | ./node_modules/history/esm/history.js 28.1 KiB [built]
+     | ./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js 350 bytes [built]
+     | ./node_modules/react-router/esm/react-router.js 24.4 KiB [built]
+     | ./node_modules/react-redux/es/components/Context.js 229 bytes [built]
+     | ./node_modules/react-redux/es/utils/batch.js 413 bytes [built]
+     | ./node_modules/react-redux/es/components/Provider.js 1.41 KiB [built]
+     |     + 32 hidden modules
+    + 17 hidden modules
